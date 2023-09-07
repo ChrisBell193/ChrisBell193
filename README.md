@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, my name is Chris 👋
 
-<!--
-**ChrisBell193/ChrisBell193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent Graduate of the Data Science course from [Le Wagon Coding Bootcamp](https://www.lewagon.com/)
 
-Here are some ideas to get you started:
+🔍 Actively seeking opportunities in the field of Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently working on a Sign Language Recognition Project
+
+📚 Preparing for the Google Cloud Platform (GCP) Certification
+
+📫 Reach me at bellchris194@gmail.com or on [LinkedIn](https://www.linkedin.com/in/chris-bell-1263171b3/)
+
+Thank you for visiting my GitHub profile!
