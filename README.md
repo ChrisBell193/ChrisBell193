@@ -6,7 +6,7 @@
 
 🚀 Currently working on a Sign Language Recognition Project
 
-📚 Preparing for the Google Cloud Platform (GCP) Certification
+📚 Preparing for the GCP Associate Cloud Engineer Certification
 
 📫 Reach me at bellchris194@gmail.com or on [LinkedIn](https://www.linkedin.com/in/chris-bell-1263171b3/)
 
