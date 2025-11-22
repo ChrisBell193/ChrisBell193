@@ -1,13 +1,10 @@
 # Hello, my name is Chris 👋
 
-🎓 Recent Graduate of the Data Science course from [Le Wagon Coding Bootcamp](https://www.lewagon.com/)
-
-🔍 Actively seeking opportunities in the field of Data Science
-
-🚀 Currently working on a Sign Language Recognition Project
-
-📚 Preparing for the GCP Associate Cloud Engineer Certification
-
-📫 Reach me at bellchris194@gmail.com or on [LinkedIn](https://www.linkedin.com/in/chris-bell-1263171b3/)
+- 🎓 **Current** Master of Science in Data Science (MSDS) student at **Willamette University**  
+- 💻 **Graduate** of **Le Wagon Tokyo** (full-stack/data science bootcamp)  
+- 👨‍🏫 **Taught** at Le Wagon Tokyo, helping students build projects and learn Python  
+- 🔍 **Looking for** internship opportunities in data science and computer vision  
+- 🀄 **Currently working on:** a computer vision project for **Mahjong tile recognition and analysis**  
+- 📫 Reach me at bellchris194@gmail.com or on [LinkedIn](https://www.linkedin.com/in/chris-bell-1263171b3/)
 
 Thank you for visiting my GitHub profile!
