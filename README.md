@@ -5,6 +5,6 @@
 - 👨‍🏫 **Taught** at Le Wagon Tokyo, helping students build projects and learn Python  
 - 🔍 **Looking for** internship opportunities in data science and computer vision  
 - 🀄 **Currently working on:** a computer vision project for **Mahjong tile recognition and analysis**  
-- 📫 Reach me at bellchris194@gmail.com or on [LinkedIn](https://www.linkedin.com/in/chris-bell-1263171b3/)
+- 📫 **Reach me** at bellchris194@gmail.com or on [LinkedIn](https://www.linkedin.com/in/chris-bell-1263171b3/)
 
 Thank you for visiting my GitHub profile!
